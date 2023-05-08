@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm shokhrukh</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="center" src="https://infinigeek.com/assets/common-programming-languages.png" width="100%" alt="coding"/>
