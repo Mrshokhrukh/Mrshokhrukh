@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shokhrukh</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Front-end React Js developer from Uzbekistan</h3>
 <img align="center" src="https://infinigeek.com/assets/common-programming-languages.png" width="100%" alt="coding"/>
 <img align="right" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" width="50%" alt="coding"/>
 
