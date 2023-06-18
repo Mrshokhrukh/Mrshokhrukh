@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on **more than 5 projects**
 
+<h2> <a href="https://www-shokhrukh-portfolio.netlify.app/"> My Portfolio website </a></h2>
+
 - 🌱 I’m currently learning **Next.js Typescript nodeJs python**
 
 - 👯 I’m looking to collaborate on **e-commerces,web designs,company websites**
