@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **more than 5 projects**
 
-<h2> <a href="https://www-shokhrukh-portfolio.netlify.app/"> My Portfolio website </a></h2>
+<h2> <a href="https://shokhrukh-dev.netlify.app/" target="_blnak"> My Portfolio website </a></h2>
 
 - 🌱 I’m currently learning **Next.js Typescript nodeJs python**
 
